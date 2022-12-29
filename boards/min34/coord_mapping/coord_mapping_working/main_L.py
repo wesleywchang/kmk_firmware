@@ -73,5 +73,3 @@ keyboard.keymap = [layer]
 
 if __name__ == '__main__':
     keyboard.go()
-if __name__ == '__main__':
-    keyboard.go()
